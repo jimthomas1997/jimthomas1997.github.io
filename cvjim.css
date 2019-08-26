@@ -21,7 +21,10 @@ td{
 i{
 	margin: 0 16px;
 }
-
+#div5 p{
+	color: black;
+	padding:0 64px;
+}
 .size{
 	width:40%;
 }
