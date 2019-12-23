@@ -1,0 +1,15 @@
+.section-one{
+	padding: 120px 0 0 60px;
+}
+
+.section-one--img{
+	height:500px;
+	width:500px;
+	border-radius: 750px;
+}
+
+.section-one--content_right{
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+}
