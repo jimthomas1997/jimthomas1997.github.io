@@ -18,7 +18,7 @@
 }
 
 .section-one--para{
-	margin-right:10px;
+	margin-right:30px;
 	text-align: justify;
 }
 
@@ -31,14 +31,18 @@
 .left-fixed-icons{
 	display:flex;
 	flex-direction: row;
-	justify-content:space-around;
+	justify-content:center;
+}
+
+.left-fixed-icons .fa{
+	padding:0 10px;
 }
 
 
 .card{
 	height:250px;
 	margin-bottom: 30px;
-	margin-right: 10px;
+	margin-right: 30px;
 }
 
 .split {
