@@ -14,7 +14,7 @@
 	padding: 120px 0 0 60px;
 }
 .section-one--img{
-	height:400px;
+	height:360px;
 	width:400px;
 	border-radius: 750px;
 	margin-top: 5%;
@@ -75,6 +75,10 @@
   width:35%;
   left: 0;
   background-color: white;
+}
+
+.left h3{
+	padding-top: 10px;
 }
 
 .right {
