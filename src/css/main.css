@@ -50,6 +50,8 @@
 	margin-right: 30px;
 }
 
+
+
 .section-two .card{
 	text-align: center;
 	border:none;
@@ -74,7 +76,7 @@
 .left {
   width:35%;
   left: 0;
-  background-color: white;
+  background-color:hsl(0, 42%, 20%);
 }
 
 .left h3{
