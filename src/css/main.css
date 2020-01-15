@@ -137,10 +137,16 @@
 
     .right {
 		float: none;
-		margin-top: 100%;
+		margin-top: 70%;
 		width:100%;
 		right: 0;
 		background-color: white;
+	  }
+
+	  .right .section-one{
+		
+		margin-top: -50px;
+		
 	  }
 	  
 .section-one .card{
