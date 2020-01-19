@@ -121,15 +121,15 @@ h1{
 
 @media (max-width: 767px) {
 	.section-one--img{
-		display:flex;
-		justify-content: center;
+	
 		
-		height:100px;
-		width:100px;
+		height:150px;
+		width:150px;
 		border-radius: 750px;
 		margin: 5% auto;
 		
 	}
+	
 	.left {
 		position:absolute;
 		width:100%;
