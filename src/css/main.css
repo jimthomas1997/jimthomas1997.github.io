@@ -174,13 +174,14 @@ h1 {
 	.right .section-one {
 
 		margin-top: -50px;
+		padding-left: 15px;
+		padding-right: 15px;
 
 	}
 
 	.section-one .card {
 		min-height: 327px;
-		margin-bottom: 30px;
-		margin-right: 60px;
+		margin: 0 0 30px 0 !important;
 	}
 
 	.section-one--para {
