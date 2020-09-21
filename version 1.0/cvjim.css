@@ -21,6 +21,12 @@ td{
 i{
 	margin: 0 16px;
 }
+#emailid{
+	text-decoration: none;
+	color:white;
+	
+}
+
 #div5 p{
 	color: black;
 	padding:0 64px;
