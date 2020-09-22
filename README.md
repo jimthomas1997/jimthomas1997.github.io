@@ -6,5 +6,5 @@ Created 2 versions of portfolio. The main purpose of the project was to test my 
     
 # Screenshots
 
-![portfolio1 screenshot](https://user-images.githubusercontent.com/41678679/93890097-997e2180-fd07-11ea-998e-49adaa3a0759.jpg )
+![portfolio1 screenshot](https://user-images.githubusercontent.com/41678679/93890097-997e2180-fd07-11ea-998e-49adaa3a0759.jpg {width=40px height=400px})
 ![portfolio2 screenshot](https://user-images.githubusercontent.com/41678679/93890154-a6027a00-fd07-11ea-8bd7-3eba3c4bb965.jpg )
