@@ -1,5 +1,5 @@
 # Personal Porfolio
-A Front End project on portfolio using HTML5,CSS, Javascript, jQuery, Bootstrap4. 
+A Front End project on portfolio using HTML5,CSS, Javascript, jQuery and Bootstrap4. It is responsive and you can view in your mobile phone with no issues.
 
 # About Project
 Created 2 versions of portfolio. 
