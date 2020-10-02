@@ -24,7 +24,8 @@
 
 h1 {
 	/* padding-right: 57px; */
-	color:#481E1E;
+	 color:#481E1E; 
+
 
 }
 
@@ -304,6 +305,13 @@ h1 {
 		font-size:20px;
 		
 	}
+
+	.section-two .card .card-header .card-title{
+		font-size:20px;
+		text-align: left;
+	}
+
+
 	.section-two .card .card-body h5{
 		font-size:17px;
 
