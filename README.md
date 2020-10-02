@@ -7,7 +7,7 @@ Created 2 versions of portfolio.
 # Screenshots of the previous Portfolio
 <div class"row">
 <img align="center" src="https://user-images.githubusercontent.com/41678679/94019258-3061e100-fdcf-11ea-9438-018aa0118f85.jpg" width="20%">
-<img src="https://user-images.githubusercontent.com/41678679/94019268-322ba480-fdcf-11ea-8f16-2818c8f71828.jpg" width="20%">
+<img src="https://user-images.githubusercontent.com/41678679/94019268-322ba480-fdcf-11ea-8f16-2818c8f71828.jpg" width="20%" height="100%">
 </div>    
     
 # Screenshots of the main Portfolio
