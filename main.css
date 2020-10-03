@@ -298,7 +298,8 @@ h1 {
 	}
 
 	.section-two .card{
-		width:100%;
+		width:150px;
+		
 		
 	}
 	.section-two .card h3{
@@ -306,14 +307,18 @@ h1 {
 		
 	}
 
+	.section-two .card .card-header{
+		height:200px;
+	}
+
 	.section-two .card .card-header .card-title{
-		font-size:20px;
+		font-size:15px;
 		text-align: left;
 	}
 
 
 	.section-two .card .card-body h5{
-		font-size:17px;
+		font-size:14px;
 
 		
 	}
